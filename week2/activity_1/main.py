@@ -12,4 +12,3 @@ print(f"The sum is {result}")
 
 
 
-git
